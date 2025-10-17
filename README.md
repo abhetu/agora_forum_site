@@ -7,3 +7,6 @@ Status: In development
 Authors: Anubhav Bhetuwal, Denise Boler, Trinity Boston, Max Cantrell
 
 More details and project files will be added soon.
+
+
+setting up Jira - commit needed
