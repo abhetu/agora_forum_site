@@ -1,8 +1,0 @@
-# Commit Message Template
-
-Jira Issue Format:
-SCRUM-<issue-number>: Short description
-
-Details:
-- Provide a detailed explanation of the changes.
-- Include any context or additional information needed.
