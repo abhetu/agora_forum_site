@@ -10,3 +10,6 @@ More details and project files will be added soon.
 
 
 setting up Jira - commit needed
+
+#Team Member Names:
+Anubhav Bhetuwal
